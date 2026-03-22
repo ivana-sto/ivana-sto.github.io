@@ -29,11 +29,16 @@ a {
 }
 p {
     margin: 0;
+    padding-bottom:12px;
     font-weight: 300;
 }
 ul {
     margin: 0;
 }
+li {
+        padding-bottom:12px;
+}
+
 img {
     max-width: 100%;
 }
